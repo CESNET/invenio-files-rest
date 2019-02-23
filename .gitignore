@@ -57,3 +57,5 @@ target/
 
 examples/data/
 examples/test.db
+
+.idea
